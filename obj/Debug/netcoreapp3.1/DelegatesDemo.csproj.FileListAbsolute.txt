@@ -1,0 +1,13 @@
+C:\Users\harig\source\repos\DelegatesDemo\bin\Debug\netcoreapp3.1\DelegatesDemo.exe
+C:\Users\harig\source\repos\DelegatesDemo\bin\Debug\netcoreapp3.1\DelegatesDemo.deps.json
+C:\Users\harig\source\repos\DelegatesDemo\bin\Debug\netcoreapp3.1\DelegatesDemo.runtimeconfig.json
+C:\Users\harig\source\repos\DelegatesDemo\bin\Debug\netcoreapp3.1\DelegatesDemo.runtimeconfig.dev.json
+C:\Users\harig\source\repos\DelegatesDemo\bin\Debug\netcoreapp3.1\DelegatesDemo.dll
+C:\Users\harig\source\repos\DelegatesDemo\bin\Debug\netcoreapp3.1\DelegatesDemo.pdb
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.AssemblyInfo.cs
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.dll
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.pdb
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.genruntimeconfig.cache
+C:\Users\harig\source\repos\DelegatesDemo\obj\Debug\netcoreapp3.1\DelegatesDemo.csproj.AssemblyReference.cache
